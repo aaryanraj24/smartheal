@@ -151,3 +151,5 @@ Werkzeug==3.0.1
 whois==0.9.8
 widgetsnbextension==4.0.5
 wrapt==1.16.0
+python==3.9.7
+
